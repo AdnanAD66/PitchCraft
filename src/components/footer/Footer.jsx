@@ -73,7 +73,7 @@ function Footer() {
                 </ul>
             </div>
             <p className="block mb-4 text-sm text-center text-blue-200 md:mb-0 border-t border-blue-300 mt-4 pt-4 max-w-7xl mx-auto px-4">
-                Copyright © 2024&nbsp;
+                Copyright © 2025&nbsp;
                 <a href="https://material-tailwind.com/" target="_blank" rel="noreferrer" className="text-white hover:text-blue-200">PitchCraft</a>.
             </p>
         </footer>
